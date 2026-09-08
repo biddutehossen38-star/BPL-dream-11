@@ -1,0 +1,92 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
+    "origin": "Bangladesh",
+    "PlayerType": "All-Rounder",
+    "bowlingStyle": "Left-arm orthodox",
+    "battingStyle": "Left-handed",
+    "price": 500
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
+    "origin": "India",
+    "PlayerType": "Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-handed",
+    "price": 500
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
+    "origin": "Pakistan",
+    "PlayerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-handed",
+    "price": 700
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
+    "origin": "England",
+    "PlayerType": "All-Rounder",
+    "bowlingStyle": "Right-arm fast-medium",
+    "battingStyle": "Left-handed",
+    "price": 600
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
+    "origin": "Australia",
+    "PlayerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-handed",
+    "price": 800
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
+    "origin": "New Zealand",
+    "PlayerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-handed",
+    "price": 1000
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
+    "origin": "Afghanistan",
+    "PlayerType": "Bowler",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Right-handed",
+    "price": 500
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
+    "origin": "England",
+    "PlayerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "None",
+    "battingStyle": "Right-handed",
+    "price": 600
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
+    "origin": "New Zealand",
+    "PlayerType": "Bowler",
+    "bowlingStyle": "Left-arm fast-medium",
+    "battingStyle": "Right-handed",
+    "price": 600
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiO4zvEygwdiAWS33J60ddBVQQJphE7__s3_yCUUFF8A&s=10",
+    "origin": "Bangladesh",
+    "PlayerType": "Bowler",
+    "bowlingStyle": "Left-arm fast-medium",
+    "battingStyle": "Left-handed",
+    "price": 800
+  }
+]
