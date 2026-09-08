@@ -52,7 +52,7 @@ const PlayerCard = ({ player, coin, setCoin, selectedPlayers, setSelectedPlayers
         group card overflow-hidden
         rounded-2xl
         border border-base-300
-        bg-gradient-to-br from-base-100 to-base-200
+        bg-bottom-right from-base-100 to-base-200
         shadow-xl
         transition-all duration-300
         hover:-translate-y-3
