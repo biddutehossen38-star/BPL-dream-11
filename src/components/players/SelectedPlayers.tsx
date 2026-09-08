@@ -1,6 +1,6 @@
 import type { Dispatch, SetStateAction } from 'react';
 import type { IPlayerType } from '../../types/playerType';
-import { TbTrash } from 'react-icons/tb';
+
 import SelectedPlayerCard from './SelectedPlayerCard';
 
 interface ISelectedPlayersProps {

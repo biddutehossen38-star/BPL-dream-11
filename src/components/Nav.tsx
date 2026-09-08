@@ -1,5 +1,5 @@
 
-import React, { useState } from 'react';
+
 import Logo from '../assets/logo.png'
 import { HiOutlineCurrencyDollar } from 'react-icons/hi';
 
